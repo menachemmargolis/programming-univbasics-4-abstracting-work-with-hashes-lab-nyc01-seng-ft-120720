@@ -6,7 +6,7 @@ end
 
 def read_from_hash(hash, key)
    hash{key}
-   
+
 end
 binding.pry
 def update_counting_hash(hash, key)
